@@ -1,0 +1,21 @@
+<span id="a">adrien@didier</span>:<span id="b">~</span><span id="c">$</span> cd Adrien_DIDIER/<!-- laglaglaglaglaglag -->About_me
+<span id="a">adrien@didier</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->adrien.txt<br/><br/>
+Quelle est ma passion ? "<span id="k">La data science</span>" ! <!-- sjkfhskjf -->
+
+Bienvenue sur mon Portfolio Terminal ! <!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
+Je m'appelle Adrien DIDIER diplômé depuis juin 2021 d'un Master en Data Science. Je suis depuis devenu un jeune Data Scientist. Lors de ma scolarité je me suis trouvé passionner par le domaine de la Data qui en plus d'avoir été le sujet de mes études ont aussi été une de mes passions. 
+<!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+Ayant réalisé un stage de fin d'études chez ACOEM (Acoustique et vibration) je possède une première expérience complète dans le domaine de la Data Science. En effet lors de ce stage j'ai pu réaliser la mise en place d'un pipeline d'acquisition de données (Cleaning, stockage cloud), par la suite j'ai pu créer des outils de visualisations nous ayant permis d'analyser nos données. Après la sélection des données les plus adaptées, j'ai implémenté de multiples réseaux de neurones ayant permis de détecter différents types défauts sur des machines industrielles.
+<!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>Actuellement Data Scientist chez OpenStudio à Lyon, je suis reponsable du dévelopement des différentes méthodes de recommandation et de prédiction.<!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+Pour découvrir les différents projets qui j'ai pu réaliser en side project ou lors de ma scolarité vous pouvez me clicker <a href="https://github.com/AdrienDIDIER" target="_blank">ici</a>.
+<!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+
+<p> Vous pouvez me suivre sur mes différents réseaux : <br> 
+<a href="https://www.linkedin.com/in/adriendidier" target="_blank"><img src="LI.png" width="50" height="50"></a>
+<a href="https://github.com/AdrienDIDIER" target="_blank" ><img src="GI.png" width="50" height="50"></a>
+
+Pour me contacter<!-- slightdelayhere-->, n'hesitez pas a m'envoyer un email sur l'adresse suivante <!-- longlonglongcomment --><a href="mailto:adrien.didier@outlook.fr?subject=Contact Portfolio Adrien DIDIER">Email</a>.
+
+<p>Cordialement !</p>
